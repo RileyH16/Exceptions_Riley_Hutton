@@ -1,0 +1,14 @@
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\bin\Debug\net6.0\Exceptions_Riley_Hutton.exe
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\bin\Debug\net6.0\Exceptions_Riley_Hutton.deps.json
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\bin\Debug\net6.0\Exceptions_Riley_Hutton.runtimeconfig.json
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\bin\Debug\net6.0\Exceptions_Riley_Hutton.dll
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\bin\Debug\net6.0\Exceptions_Riley_Hutton.pdb
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\Exceptions_Riley_Hutton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\Exceptions_Riley_Hutton.AssemblyInfoInputs.cache
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\Exceptions_Riley_Hutton.AssemblyInfo.cs
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\Exceptions_Riley_Hutton.csproj.CoreCompileInputs.cache
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\Exceptions_Riley_Hutton.dll
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\refint\Exceptions_Riley_Hutton.dll
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\Exceptions_Riley_Hutton.pdb
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\Exceptions_Riley_Hutton.genruntimeconfig.cache
+C:\Users\RileyHutton\source\repos\Exceptions_Riley_Hutton\Exceptions_Riley_Hutton\obj\Debug\net6.0\ref\Exceptions_Riley_Hutton.dll

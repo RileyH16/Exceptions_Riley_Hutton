@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exceptions_Riley_Hutton/1.0.0": {
+        "runtime": {
+          "Exceptions_Riley_Hutton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exceptions_Riley_Hutton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
